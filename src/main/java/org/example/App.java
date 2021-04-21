@@ -1,9 +1,7 @@
 package org.example;
 
-/**
- * Hello world!
- *
- */
+/// just empty edit - test
+
 public class App 
 {
     public static void main( String[] args )
