@@ -1,6 +1,7 @@
 package org.example;
 
-/// just empty edit - test
+// just empty edit - test
+//this is a test app for training porposes
 
 public class App 
 {
