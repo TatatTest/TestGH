@@ -1,7 +1,7 @@
 package org.example;
 
-/// just empty edit - test
-
+// just empty edit - test
+//to short description 
 public class App 
 {
     public static void main( String[] args )
